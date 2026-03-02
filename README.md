@@ -1,4 +1,4 @@
-Người mới học code
+human
 
 <!---
 thangtoanh26/thangtoanh26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
